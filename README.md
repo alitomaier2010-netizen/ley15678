@@ -1,4 +1,4 @@
-# Conciencia digital, algoritmos y marco legal — Ley 15.678
+﻿# Conciencia digital, algoritmos y marco legal — Ley 15.678
 
 **Actividad 10 — El uso de celulares en el aula** · Laboratorio de Programación (LPR) · 5.º 3.ª A-B · E.E.S.T. N.º 1 «Eduardo Ader» — Vicente López
 
@@ -60,7 +60,7 @@ No requiere librerías externas: usa solo Python estándar (funciones, booleanos
 
 ## Referencias del trabajo
 
-- GitHub: https://github.com/alitomaier2010-netizen/Actividades-2.0.git
-- GitLab: https://gitlab.com/Alitopro/Actividades-2.0.git
+- GitHub: https://github.com/alitomaier2010-netizen/ley15678
+- GitLab: https://gitlab.com/Alitopro/ley15678
 
 El informe APA v7 (`docs/InformeEEST1_LPR2026_ACT10_Ley_Maier_v1.0.0.pdf`) incluye ambas referencias en su sección final, junto con la norma y la documentación de Python.
