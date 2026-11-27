@@ -15,6 +15,36 @@ Rama `ley15678` de la Actividad 10: un **filtro de decisiones** en Python que si
 - Docente: Mansilla Muñoz York Elías
 - Fecha de entrega: 25 de noviembre de 2026
 
+## Datos institucionales
+
+- **Institución:** E.E.S.T. N.º 1 «Eduardo Ader» — Vicente López
+- **Curso:** 5.º 3.ª A-B
+- **Materia:** Laboratorio de Programación (LPR)
+- **Profesor:** Prof. York
+- **Actividad:** 10 — Ley 15.678: conciencia digital y marco legal
+
+## Presentación de la Actividad
+
+Simulador en Python de los escenarios de uso de celulares en el aula según la Ley 15.678, con evaluación de authorize docente, emergencia familiar y uso personal.
+
+## Integrantes y roles
+
+| Integrante | Rol / tarea asignada | Aporte individual |
+|---|---|---|
+| Alexis Maier | Marco normativo, función de evaluación de casos, pruebas e informe | [ley15678](https://github.com/alitomaier2010-netizen/ley15678) |
+
+## Requisitos e instalación
+
+1. **Git** instalado para clonar el repositorio.
+2. **Editor de código** (VS Code con extensiones de C/C++, o Visual Studio Community).
+3. **Compilador g++** (MinGW-w64 / MSYS2) agregado al `PATH` del sistema.
+4. Clonar y situarse en el directorio:
+
+```bash
+git clone https://github.com/alitomaier2010-netizen/ley15678.git
+cd ley15678
+```
+
 ## Estructura
 
 ```
@@ -64,3 +94,5 @@ No requiere librerías externas: usa solo Python estándar (funciones, booleanos
 - GitLab: https://gitlab.com/Alitopro/ley15678
 
 El informe APA v7 (`docs/InformeEEST1_LPR2026_ACT10_Ley_Maier_v1.0.0.pdf`) incluye ambas referencias en su sección final, junto con la norma y la documentación de Python.
+
+**Espejo automático:** https://gitlab.com/Alitopro/ley15678
